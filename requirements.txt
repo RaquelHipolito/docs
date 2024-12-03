@@ -12,3 +12,4 @@ mkdocs-include-markdown-plugin==2.8.0
 mkdocs-rss-plugin==0.15.0
 mkdocs-meta-descriptions-plugin==0.0.5
 mkdocs-exclude==1.0.2
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
